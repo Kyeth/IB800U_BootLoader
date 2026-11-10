@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "internalcan.h": "c",
+        "internalcantramsport.h": "c",
+        "internalcancfg.h": "c",
+        "internalcanprocess.h": "c"
+    }
+}
